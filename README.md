@@ -1,4 +1,4 @@
-# 📝 Stay organized with a simple and clean To-Do List app built with vanilla JavaScript.
+## 📝 Stay organized with a simple and clean To-Do List app built with vanilla JavaScript.
 
 This is a simple To-Do List application built using HTML, CSS, and JavaScript. 
 It allows users to add new tasks, mark tasks as completed, and remove them when no longer needed.
